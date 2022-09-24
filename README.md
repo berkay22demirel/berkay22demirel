@@ -6,4 +6,4 @@
 - 📖  You can see my blog posts [here](http://berkay22demirel.blogspot.com)
 - 📕 You can see my medium posts [here](https://berkay22demirel.medium.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=berkay22demirel" />
+<img src="https://github-readme-stats.vercel.app/api?username=berkay22demirel" >
