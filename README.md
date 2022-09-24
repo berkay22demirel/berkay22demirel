@@ -6,4 +6,4 @@
 - 📖  You can see my blog posts [here](http://berkay22demirel.blogspot.com)
 - 📕 You can see my medium posts [here](https://berkay22demirel.medium.com)
 
-![](https://raw.githubusercontent.com/berkay22demirel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkay22demirel)](https://github.com/anuraghazra/github-readme-stats)
